@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="nama">Reza</string>
+    <string name="nohp">082189096521</string>
+    <string name="qr">Silahkan Scan QR Ini</string>
+    <string name="bc">CASTLE</string>
+    <string name="tdk">IN THE SKY</string>
+</resources>
